@@ -657,5 +657,6 @@
   { "ceh": { "asset": "quest/charged_essense_of_hatred" } },
   { "bet": { "asset": "quest/burning_essence_of_terror" } },
   { "fed": { "asset": "quest/festering_essence_of_destruction" } },
+  { "cob": { "asset": "quest/corrupted_orb" } },
   { "std": { "asset": "body_part/flag" } }
 ]
