@@ -1,4 +1,0 @@
-Strings:
-Levels: ID# 50,000+
-Item-Modifiers: ID# 52,000+
-Skills: ID# 54,000+
